@@ -20,7 +20,7 @@ Explore the `jenkins/` directory for Jenkins-related configurations and pipeline
 
 The `terraform/` directory houses Terraform configurations for infrastructure provisioning and management. Dive into this section to find modules, examples, and guidelines.
 
-🔗 [Terraform Configs](terraform/)
+🔗 [Terraform Configs](/Terraform/)
 
 ## ArgoCD
 
