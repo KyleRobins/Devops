@@ -26,19 +26,19 @@ The `terraform/` directory houses Terraform configurations for infrastructure pr
 
 In the `argocd/` directory, discover configurations for ArgoCD, a declarative, GitOps continuous delivery tool for Kubernetes. Explore applications, repositories, and sync strategies.
 
-🔗 [ArgoCD Documentation](argocd/README.md)
+🔗 [ArgoCD Configs](argocd/README.md)
 
 ## Kubernetes
 
 The `kubernetes/` directory contains Kubernetes manifests, Helm charts, and configuration files. This section provides insights into deployments, services, and other Kubernetes resources.
 
-🔗 [Kubernetes Documentation](kubernetes/README.md)
+🔗 [Kubernetes Configs](kubernetes/README.md)
 
 ## Scripts
 
 Find helpful automation and utility scripts in the `scripts/` directory. These scripts aim to simplify common DevOps tasks, enhance workflows, and boost productivity.
 
-🔗 [Scripts Documentation](scripts/README.md)
+🔗 [Scripts Configs](scripts/README.md)
 
 ## Contribution
 
